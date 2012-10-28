@@ -19,6 +19,9 @@ Example:
 
     ;;; The encrypt function expects a String value as its input
     ;;; and returns a byte array.
+    user=> (def password "abcdefghijklmnop")
+    #'user/password
+    
     user=> (c/encrypt "Hello, World" password)
     #<byte[] [B@774b9b80>
 
