@@ -2,6 +2,9 @@
 
 A Clojure library designed to perform weak encryption, based on 128-bit AES.
 
++ https://clojars.org/org.clojars.tnoda/simple-crypto
++ https://github.com/tnoda/simple-crypto
+
 
 ## Dependency information
 
